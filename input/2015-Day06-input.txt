@@ -1,0 +1,4 @@
+turn off 001,001 through 003,003
+turn on 001,001 through 002,003
+toggle 001,001 through 003,003
+turn on 001,001 through 003,003
