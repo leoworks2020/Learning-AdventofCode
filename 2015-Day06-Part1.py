@@ -21,7 +21,7 @@ turn off 499,499 through 500,500 would turn off (or leave off) the middle four l
 After following the instructions, how many lights are lit?
 --------------------------------------------------------------------------------
 Challenge Start Day:        2023-07-07
-Challenge Completion Day:   
+Challenge Completion Day:   x
 '''
 #Puzzle Part I
 # TODO: Create a matrix based on the size required
